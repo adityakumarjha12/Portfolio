@@ -10,12 +10,12 @@
 
 ### Website Preview
 #### Home Page
-<img src="<img width="1440" alt="home" src="https://github.com/user-attachments/assets/a3e8c06f-801f-47a0-b39e-e68bd78c3bbc" />
+<img src="<img width="1440" alt="home" src="website_images/about.png" />
 " width="900">
 
 
 #### About Page
-<img src="<img width="1440" alt="about" src="https://github.com/user-attachments/assets/052d8180-a2a2-4cb6-acec-3d501d1f8d96" />
+<img src="<img width="1440" alt="about" src="website_images/home page.gif" />
 " width="900">
 
 
