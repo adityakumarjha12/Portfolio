@@ -1,5 +1,5 @@
 # Personal Portfolio 🔥
-> (https://github.com/ParthShxrma/Portfolio)
+> (https://github.com/adityakumarjha12/Portfolio)
 
 :star: Star me on GitHub — it helps!
 
